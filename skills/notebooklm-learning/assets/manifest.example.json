@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "course_slug": "replace-me",
+  "run_id": null,
+  "updated_at": null,
+  "cli": {"package": "notebooklm-py", "version": null, "profile": null},
+  "notebook": {"id": null, "title": null, "url": null},
+  "sources": [],
+  "artifacts": [],
+  "pending_operations": [],
+  "quality_review": "not_started"
+}

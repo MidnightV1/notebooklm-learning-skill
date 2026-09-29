@@ -1,0 +1,27 @@
+# Repository contents are allowlisted; learner material and credentials stay out.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/skills/
+!/evals/
+!/docs/
+!/scripts/
+!/tests/
+!/requirements-test.txt
+!/.github/
+
+# These rules apply even below an allowlisted directory.
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/.env
+**/.env.*
+**/*cookie*
+**/*token*
+**/storage_state*.json
+**/.notebooklm/
+**/.venv/
+**/outputs/
+**/exports/
+**/node_modules/
